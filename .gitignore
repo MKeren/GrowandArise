@@ -1,0 +1,10 @@
+.envs
+.env
+venv
+.vscode
+src\AcademEase\settings.py
+venv/Lib/site-packages
+src\AcademEase\__pycache__
+root.session.sql
+.github/workflows
+cloud\MySpace\MySpace\settings.py
